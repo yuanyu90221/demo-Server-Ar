@@ -1,0 +1,32 @@
+{
+	"kaohsung": {
+    "title": "高雄全年陽光普照、氣候宜人，人民既純情又熱情，這個有山、有河、有海、有港的城市，已經成功利用其豐富的歷史人文、山海資源，發展成為名副其實的觀光都會，許多的景點值得探索旅遊，留下美好的難忘回憶。",
+    "picture":"https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Building-night-light-city-images-PIC-WPC008255-1.jpg",
+    "site":"https://www.kcg.gov.tw/WallPaper.aspx?n=E97D3107244F6FE2&sms=AA580F7B35CC82BB"
+    },
+    "tainan": {
+     "title":"身為台灣第一個發展文明的都市，歷經了荷蘭、日本等異族的統治，台南有著台灣其他城市所沒有的文化內涵，而其所留存的古蹟之多亦是全台首屈一指，值得您細細的品味一番。",
+     "picture":"https://www.travelwithreporter.com/wp-content/uploads/2015/05/170323_tainan_history_1.jpg",
+     "site":"http://ilc.hk.edu.tw/web/h100r165"
+   },
+   "taichung":{
+     "title":"位在中部最重要的位置,可以說是台灣之心,台中常常都是晴朗的好天氣,陽光普照,氣候宜人還有好吃的太陽餅以及好喝的珍珠奶茶",
+     "picture":"https://cdn.101mediaimage.com/img/2017/07/13/17076061116isz9.jpg",
+     "site":"https://www.invest-taichung.com.tw/meet-taichung/"
+   },
+   "taitong": {
+      "title":"台東縣位處台灣東南方，擁有台灣後花園的美譽，台東市是台東縣的地理中心，也是台東縣交通、經濟、觀光、文化，以及教育發展的樞紐。",
+      "picture":"https://aff.bstatic.com/images/hotel/840x460/111/111209604.jpg",
+      "site":"http://www.taitungcity.gov.tw/page.php?n=2"
+   },
+   "ilan": {
+      "title": "宜蘭市的主要河川有蘭陽溪及宜蘭河，其他的重要文化設施包括蘭陽戲劇館(已申請為環境教育設施場所認證)、宜蘭縣史館，宜蘭酒廠等。",
+      "picture":"http://liketravel.tw/news/216.jpg",
+      "site":"http://eeis.ilepb.gov.tw/index.php/yilanee/eeintroduction"
+   },
+   "huanlian": {
+     "title":"風景宜人有太魯閣國家公園、花東縱谷、花東海岸線，觀光產業相當豐富，所以花蓮民宿相當多，約有900多家合法民宿",
+     "pitcure":"https://www.hl.gov.tw/ezfiles/1/1001/img/16/216239c5-ed15-4c57-84f0-ffe548a460a0.jpg",
+     "site":"https://www.hl.gov.tw/files/11-1001-267.php"
+   }
+}
